@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Engenharia de Software <br>
-💻 Foco em Web, Mobile e Sistemas Digitais <br>
+💻 Foco em web, Mobile e Sistemas Digitais <br>
 🚀 Construindo soluções com boas práticas, UX e APIs
 </p>
 
